@@ -1,0 +1,6 @@
+PS C:\Users\Hp\OneDrive\Drive_project (1)\Drive_project> git rm -r --cached backend/node_modules frontend/node_modules
+fatal: pathspec 'backend/node_modules' did not match any files
+PS C:\Users\Hp\OneDrive\Drive_project (1)\Drive_project> node_modules/
+backend/node_modules/
+frontend/node_modules/
+.env
